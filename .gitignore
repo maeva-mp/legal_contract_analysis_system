@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.log
+.streamlit/secrets.toml
+venv/
+env/
+dienv/
+.ipynb_checkpoints/
+.DS_Store
+faiss.index
+metadata.txt
+metrics.json
+ground_truth.json
