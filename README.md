@@ -3,6 +3,7 @@
 **Project Title:** SmartContract - AI Legal Contract Analyzer  
 **Student Name:** Maeva Moonien  
 **Program:** GenAI & Machine Learning 
+
 **Supervisor:** Mr. Rayhaan  
 **Date:** November 2025  
 
