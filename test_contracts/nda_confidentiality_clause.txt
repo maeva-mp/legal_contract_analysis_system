@@ -1,0 +1,9 @@
+This Non-Disclosure Agreement (NDA) is entered into between AlphaTech Ltd and Beta Innovations.
+
+1. Confidential Information includes trade secrets, client lists, and proprietary algorithms.
+2. Disclosure is permitted only to employees with a need-to-know basis.
+3. Breach of confidentiality may result in legal action and financial penalties.
+4. The agreement remains in effect for 5 years post-termination.
+5. No liability clause: AlphaTech Ltd is not liable for indirect damages.
+
+Signed on 2025-10-01.

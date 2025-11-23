@@ -1,0 +1,10 @@
+Outsourcing Agreement between GlobalSoft Inc. and CodeCraft Solutions.
+
+1. Scope: Development of backend systems for e-commerce platform.
+2. Timeline: 6 months, with bi-weekly deliverables.
+3. Payment Terms: $120,000 total, paid in 3 milestones.
+4. Termination: Either party may terminate with 30 days notice.
+5. Risk Clause: CodeCraft assumes liability for data breaches during development.
+6. Jurisdiction: Disputes resolved under Singapore law.
+
+Signed on 2025-09-15.
